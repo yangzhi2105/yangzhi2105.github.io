@@ -1,5 +1,5 @@
 # Understanding vLLM Inference Performance on Single GPU: A Practical Benchmark Study
-
+*2026-01-31*
 ## Key Takeaways
 
 1. Prefill and decode are fundamentally different from a performance perspective.
